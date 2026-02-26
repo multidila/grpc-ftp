@@ -1,0 +1,3 @@
+This is a test file for verifying the gRPC FTP service.
+It demonstrates text file transfer over a streaming RPC connection.
+The server splits file content into 64 KB chunks before sending.
